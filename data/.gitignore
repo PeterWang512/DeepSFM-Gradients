@@ -1,0 +1,9 @@
+processed_kitti/
+processed_kitti.zip
+tmp
+kitti/edge_kitti/
+kitti/partial_edge_kitti/
+kitti/__pycache__/
+kitti/raw_kitti/
+kitti/edge_kitti.zip
+kitti/partial_edge_kitti.zip

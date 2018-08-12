@@ -1,0 +1,6 @@
+edge_kitti/
+partial_edge_kitti/
+__pycache__/
+raw_kitti/
+edge_kitti.zip
+partial_edge_kitti.zip
